@@ -14,7 +14,7 @@ const Projects: React.FC<{}> = () => {
       <div className=" container mx-auto 2xl  ">
         <div className="flex-col flex md:flex-row  mt-7">
           <Link
-            href="https://web.hr/"
+            href="https://staging.bornali.sscl.tech/login"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -24,7 +24,7 @@ const Projects: React.FC<{}> = () => {
                 src="/prime.png"
                 height={150}
                 width={150}
-                alt="Ibrahim Memon - UX Design Project"
+                alt="Ashiqur Rahman - Software Engineer"
               />
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">Prime-Shonjog</p>
@@ -36,20 +36,20 @@ const Projects: React.FC<{}> = () => {
             </div>
           </Link>
           <Link
-            href="https://hireside.com/"
+            href="https://axbdtransport.com/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
           >
             <div className="flex-row flex mb-5">
               <Image
-                src="/SecondProject.png"
+                src="/augmedix-logo.png"
                 height={150}
                 width={150}
-                alt="Ibrahim Memon - UX Design Project"
+                alt="Ashiqur Rahman - Software Engineer"
               />
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">HireSide</p>
+                <p className="text-white font-semibold text-xl">Augmedix Transport Management System</p>
                 <p className="text-gray-500 text-[10px]">
                   Developed a web application on Next.js that allows users to
                   apply for jobs, create job posts, and manage their company
@@ -68,14 +68,14 @@ const Projects: React.FC<{}> = () => {
           >
             <div className="flex-row flex mb-5">
               <Image
-                src="/ThirdProject.png"
+                src="/chat.png"
                 height={150}
                 width={150}
-                alt="Ibrahim Memon - UX Design Project"
+                alt="Ashiqur Rahman - Software Engineer"
               />
               <div className=" p-3 ">
                 <p className="text-white font-semibold text-xl">
-                  Verge Systems
+                  ChatInstant
                 </p>
                 <p className="text-gray-500 text-[10px]">
                   Developed the Verge Systems website using React.js.
@@ -84,20 +84,20 @@ const Projects: React.FC<{}> = () => {
             </div>
           </Link>
           <Link
-            href="http://44.201.47.75/"
+            href="https://devtalkapp.netlify.app/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
           >
             <div className="flex-row flex mb-5">
               <Image
-                src="/FourProject.png"
+                src="/devtalk.png"
                 height={150}
                 width={150}
                 alt="Ibrahim Memon - UX Design Project"
               />
               <div className="p-3 ">
-                <p className="text-white font-semibold text-xl">Payoasis</p>
+                <p className="text-white font-semibold text-xl">DevTalk</p>
                 <p className="text-gray-500 text-[10px]">
                   Designed the modern UI for a banking website utilizing Gatsby.
                 </p>
