@@ -21,16 +21,16 @@ const Projects: React.FC<{}> = () => {
           >
             <div className="flex-row flex mb-5">
               <Image
-                src="/FirstProject.png"
+                src="/prime.png"
                 height={150}
                 width={150}
                 alt="Ibrahim Memon - UX Design Project"
               />
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">WebHR</p>
+                <p className="text-white font-semibold text-xl">Prime-Shonjog</p>
                 <p className="text-gray-500 text-[10px]">
-                  Designed a modern UI website comprising more than 50 screens,
-                  along with the integration of a blog using Next.js.
+                  working on the dynamic report system, which provides real-time
+                  insights into sales, inventory, and customer behavior.
                 </p>
               </div>
             </div>
