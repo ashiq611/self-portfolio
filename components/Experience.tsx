@@ -24,7 +24,7 @@ const Experience: React.FC<{}> = () => {
             </p>
           </div>
           <p className="text-gray-300 md:pt-0 pt-3">
-            May 2022 - Present, United States
+            Feb 2024 - Present, Dhaka
           </p>
         </div>
 
@@ -47,7 +47,7 @@ const Experience: React.FC<{}> = () => {
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            React Native
+            Next js
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             React
@@ -57,6 +57,21 @@ const Experience: React.FC<{}> = () => {
           </div>
           <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             Typescript
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Node js
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Express js
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Postgres
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            MongoDB
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Docker
           </div>
         </div>
       </div>

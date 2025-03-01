@@ -1,22 +1,22 @@
 export const Social_Icons = [
   {
-    link: "https://github.com/ibrahimmemonn",
+    link: "https://github.com/ashiq611",
     image: "/Github.svg",
-    alt: "Ibrahim Memon - Social Media",
+    alt: "Ashiqur Rahman - Social Media",
   },
+  // {
+  //   link: "https://www.instagram.com/ibii.memon/?hl=en",
+  //   image: "/Instagram.svg",
+  //   alt: "Ibrahim Memon - Social Media",
+  // },
   {
-    link: "https://www.instagram.com/ibii.memon/?hl=en",
-    image: "/Instagram.svg",
-    alt: "Ibrahim Memon - Social Media",
-  },
-  {
-    link: "https://www.linkedin.com/in/ibrahimmemonn/",
+    link: "https://www.linkedin.com/in/mdashiqurrahman1102/",
     image: "/LinkedIn.svg",
-    alt: "Ibrahim Memon - Social Media",
+    alt: "Ashiqur Rahman - Social Media",
   },
-  {
-    link: "https://twitter.com/Ibrahimmemonnn",
-    image: "/Twitter.svg",
-    alt: "Ibrahim Memon - Social Media",
-  },
+  // {
+  //   link: "https://twitter.com/Ibrahimmemonnn",
+  //   image: "/Twitter.svg",
+  //   alt: "Ibrahim Memon - Social Media",
+  // },
 ];
