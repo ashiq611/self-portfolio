@@ -23,7 +23,7 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
        animation: {
-        swing: 'swing 2s ease-in-out infinite',
+        swing: 'swing 1s ease-in-out infinite',
       },
       keyframes: {
         swing: {
