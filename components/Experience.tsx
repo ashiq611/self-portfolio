@@ -45,7 +45,7 @@ const Experience: React.FC<{}> = () => {
           component-based architecture and state management, and I am
           well-versed in the latest web development trends and technologies.
         </p>
-        <div className="flex-col flex sm:flex-row ">
+        <div className="grid grid-cols-2 md:grid-cols-4 mt-5">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             Next js
           </div>
@@ -66,9 +66,6 @@ const Experience: React.FC<{}> = () => {
           </div>
           <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             Postgres
-          </div>
-          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            MongoDB
           </div>
           <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             Docker

@@ -22,6 +22,19 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+       animation: {
+        swing: 'swing 2s ease-in-out infinite',
+      },
+      keyframes: {
+        swing: {
+          '0%, 100%': {
+            transform: 'rotate(0deg)',
+          },
+          '50%': {
+            transform: 'rotate(15deg)',
+          },
+        },
+      },
     },
   },
   plugins: [],
