@@ -13,7 +13,7 @@ const Banner: React.FC<{}> = () => {
             src="/Me.png"
             height={250}
             width={250}
-            alt="Ibrahim Memon"
+            alt="ash"
           />
         </div>
 
@@ -34,7 +34,7 @@ const Banner: React.FC<{}> = () => {
             src="/popcorn.gif"
             height={50}
             width={50}
-            alt="Ibrahim Memon"
+            alt="ash"
           />
         </div>
 

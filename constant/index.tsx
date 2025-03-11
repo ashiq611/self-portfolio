@@ -5,9 +5,9 @@ export const Social_Icons = [
     alt: "Ashiqur Rahman - Social Media",
   },
   // {
-  //   link: "https://www.instagram.com/ibii.memon/?hl=en",
+  //   link: "https://www.instagram.com/ashiq611/?hl=en",
   //   image: "/Instagram.svg",
-  //   alt: "Ibrahim Memon - Social Media",
+  //   alt: "ASh - Social Media",
   // },
   {
     link: "https://www.linkedin.com/in/mdashiqurrahman1102/",
@@ -15,8 +15,8 @@ export const Social_Icons = [
     alt: "Ashiqur Rahman - Social Media",
   },
   // {
-  //   link: "https://twitter.com/Ibrahimmemonnn",
+  //   link: "https://twitter.com/asd",
   //   image: "/Twitter.svg",
-  //   alt: "Ibrahim Memon - Social Media",
+  //   alt: "Ash - Social Media",
   // },
 ];

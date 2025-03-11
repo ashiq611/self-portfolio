@@ -8,13 +8,13 @@ const Navbar: React.FC<{}> = () => {
     <div className="w-full h-[65px] bg-['#111'] fixed backdrop-blur-sm z-50 px-10">
       <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[10px]">
         <a
-          title="ibrahim logo"
+          title="ash logo"
           href="/"
           className="h-auto w-auto flex flex-row items-center"
         >
           <Image
             src="/Logo.svg"
-            alt="Ibrahim Memon - Developer"
+            alt="ash - Developer"
             width={100}
             height={100}
             sizes="100vw"

@@ -94,7 +94,7 @@ const Projects: React.FC<{}> = () => {
                 src="/devtalk.png"
                 height={150}
                 width={150}
-                alt="Ibrahim Memon - UX Design Project"
+                alt="Ash - UX Design Project"
               />
               <div className="p-3 ">
                 <p className="text-white font-semibold text-xl">DevTalk</p>
